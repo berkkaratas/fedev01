@@ -8,9 +8,9 @@
   </section>
 </template>
 <script>
-import BodyGoNow from "./BodyGoNow.vue";
-import BodyText from "./BodyText.vue";
-import BodyContent from "./BodyContent.vue";
+import BodyGoNow from "../Home/BodyGoNow.vue";
+import BodyText from "../Home/BodyText.vue";
+import BodyContent from "../Home/BodyContent.vue";
 export default {
   components: {
     appBodyGoNow: BodyGoNow,

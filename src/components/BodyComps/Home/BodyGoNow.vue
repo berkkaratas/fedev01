@@ -15,7 +15,7 @@
         active:text-pink-500
         focus:outline-none focus:ring
       "
-      href="/get-started"
+      href=""
     >
       <span class="text-sm font-medium"> Harekete Geç </span>
 
